@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Funzionamento">Welcome, by selecting HIGH you will have a higher precision but a less optimal battery use, by selecting LOW you will have a lower precision but a better battery use. THE CHOICE IS YOURS!</string>
+    <string name="High">HIGH</string>
+    <string name="exit_m">Exit</string>
+    <string name="Low">LOW</string>
+    <string name="permission">Without active permissions, the app will not function properly.</string>
+    <string name="welcome_content">" Welcome, I'm calculating your position."</string>
+    <string name="enable_permission">Accept</string>
+    <string name="gps">"To have high accuracy, GPS must be enabled."</string>
+    <string name="title_alert">Permissione Request</string>
+    <string name="ok">ok</string>
+    <string name="title_menu">Credits</string>
+    <string name="credits">Developer: Garofano Generico</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="isActive">Your GPS is already active.</string>
+    <string name="internet_perm">" Hi, we need your permission to use the internet to have a correct geolocation."</string>
+    <string name="permission_explain">Hello! To locate your device, we need you to authorize us to access the location.</string>
+    <string name="permission_denied">"Permission denied, unable to use the app "</string>
+</resources>
